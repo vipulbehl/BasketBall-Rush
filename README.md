@@ -7,10 +7,10 @@ height="30%" width="30%">
 </a>
 <br>
 
-<!--<h2>Gameplay</h2>
-<img src="https://github.com/vipulbehl/BasketBall-Rush/blob/master/Game%20play.gif" height="50%" width="50%">
+<h2>Gameplay</h2>
+<img src="https://github.com/vipulbehl/BasketBall-Rush/blob/master/Game%20play.gif" height="25%" width="25%">
 
-<br>-->
+<br>
 
 <h2>Features</h2>
 <ul>
