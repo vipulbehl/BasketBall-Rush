@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/vipul/AndroidStudioProjects/BasketBall-Rush/android/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/home/vipul/AndroidStudioProjects/BasketBall-Rush/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/home/vipul/Desktop/BasketBall-Rush/android/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/home/vipul/Desktop/BasketBall-Rush/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/res/raw/gtm_analytics"
+    }
+]

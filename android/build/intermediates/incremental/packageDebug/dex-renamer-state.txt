@@ -1,0 +1,7 @@
+#Wed Feb 22 21:24:02 IST 2017
+base.0=/home/vipul/AndroidStudioProjects/BasketBall-Rush/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c06be722d601db909c8fe12877b4d535f3a332fd
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/vipul/AndroidStudioProjects/BasketBall-Rush/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3cc9f268cbad07884bc5b01fd9e5f668e97a5947/classes.dex
+base.1=/home/vipul/AndroidStudioProjects/BasketBall-Rush/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3cc9f268cbad07884bc5b01fd9e5f668e97a5947
+file.0=/home/vipul/AndroidStudioProjects/BasketBall-Rush/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c06be722d601db909c8fe12877b4d535f3a332fd/classes.dex

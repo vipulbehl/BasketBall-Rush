@@ -1,0 +1,152 @@
+
+buttons.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+medium
+  rotate: false
+  xy: 1, 367
+  size: 281, 97
+  orig: 281, 97
+  offset: 0, 0
+  index: -1
+achievements
+  rotate: false
+  xy: 1, 269
+  size: 281, 96
+  orig: 281, 96
+  offset: 0, 0
+  index: -1
+home
+  rotate: false
+  xy: 284, 368
+  size: 281, 96
+  orig: 281, 96
+  offset: 0, 0
+  index: -1
+leaderboard
+  rotate: false
+  xy: 1, 171
+  size: 281, 96
+  orig: 281, 96
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 284, 270
+  size: 281, 96
+  orig: 281, 96
+  offset: 0, 0
+  index: -1
+tutButton
+  rotate: false
+  xy: 567, 368
+  size: 281, 96
+  orig: 281, 96
+  offset: 0, 0
+  index: -1
+homeClicked
+  rotate: false
+  xy: 1, 87
+  size: 281, 82
+  orig: 281, 82
+  offset: 0, 0
+  index: -1
+leaderboardClicked
+  rotate: false
+  xy: 284, 186
+  size: 281, 82
+  orig: 281, 82
+  offset: 0, 0
+  index: -1
+playClicked
+  rotate: false
+  xy: 567, 284
+  size: 281, 82
+  orig: 281, 82
+  offset: 0, 0
+  index: -1
+tutButtonClicked
+  rotate: false
+  xy: 1, 3
+  size: 281, 82
+  orig: 281, 82
+  offset: 0, 0
+  index: -1
+achievementsClicked
+  rotate: false
+  xy: 284, 103
+  size: 280, 81
+  orig: 280, 81
+  offset: 0, 0
+  index: -1
+mediumClicked
+  rotate: false
+  xy: 567, 202
+  size: 231, 80
+  orig: 231, 80
+  offset: 0, 0
+  index: -1
+easy
+  rotate: false
+  xy: 284, 4
+  size: 199, 97
+  orig: 199, 97
+  offset: 0, 0
+  index: -1
+easyClicked
+  rotate: false
+  xy: 850, 391
+  size: 149, 73
+  orig: 149, 73
+  offset: 0, 0
+  index: -1
+hardClicked
+  rotate: false
+  xy: 850, 318
+  size: 145, 71
+  orig: 145, 71
+  offset: 0, 0
+  index: -1
+hard
+  rotate: false
+  xy: 567, 105
+  size: 195, 95
+  orig: 195, 95
+  offset: 0, 0
+  index: -1
+info
+  rotate: false
+  xy: 485, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ads
+  rotate: false
+  xy: 587, 36
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+soundDisable
+  rotate: false
+  xy: 656, 36
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+soundEnable
+  rotate: false
+  xy: 800, 215
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+rate
+  rotate: false
+  xy: 725, 37
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Contains leaderboard and achievements id
+-->
+<resources>
+    <string name="app_id">784867013164</string>
+    <string name="package_name">com.internetwarz.basketballrush</string>
+    <string name="achievement_score_25_in_easy">CgkIrOTg7esWEAIQAQ</string>
+    <string name="achievement_score_50_in_easy">CgkIrOTg7esWEAIQAg</string>
+    <string name="achievement_score_100_in_easy">CgkIrOTg7esWEAIQAw</string>
+
+    <string name="achievement_score_25_in_medium">CgkIrOTg7esWEAIQBA</string>
+    <string name="achievement_score_50_in_medium">CgkIrOTg7esWEAIQBQ</string>
+    <string name="achievement_score_100_in_medium">CgkIrOTg7esWEAIQBg</string>
+
+    <string name="achievement_score_25_in_hard">CgkIrOTg7esWEAIQBw</string>
+    <string name="achievement_score_50_in_hard">CgkIrOTg7esWEAIQCA</string>
+    <string name="achievement_score_80_in_hard">CgkIrOTg7esWEAIQCQ</string>
+    <string name="achievement_score_100_in_hard">CgkIrOTg7esWEAIQCg</string>
+
+    <string name="achievement_play_25_games_easy_mode">CgkIrOTg7esWEAIQCw</string>
+    <string name="achievement_play_50_games_easy_mode">CgkIrOTg7esWEAIQDA</string>
+
+    <string name="achievement_play_50_games_medium_mode">CgkIrOTg7esWEAIQDQ</string>
+    <string name="achievement_play_100_games_medium_mode">CgkIrOTg7esWEAIQDg</string>
+
+    <string name="achievement_play_100_games_hard_mode">CgkIrOTg7esWEAIQDw</string>
+    <string name="achievement_play_200_games_hard_mode">CgkIrOTg7esWEAIQEA</string>
+
+    <string name="achievement_basket_1000_blue_balls">CgkIrOTg7esWEAIQEQ</string>
+    <string name="achievement_basket_2000_blue_balls">CgkIrOTg7esWEAIQEg</string>
+
+    <string name="achievement_basket_500_green_balls">CgkIrOTg7esWEAIQEw</string>
+    <string name="achievement_basket_1000_green_balls">CgkIrOTg7esWEAIQFA</string>
+
+    <string name="leaderboard_easy">CgkIrOTg7esWEAIQFQ</string>
+    <string name="leaderboard_medium">CgkIrOTg7esWEAIQFg</string>
+    <string name="leaderboard_hard">CgkIrOTg7esWEAIQFw</string>
+
+</resources>
